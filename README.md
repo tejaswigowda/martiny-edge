@@ -4,6 +4,8 @@
 
 ## Build of materials
 
+<img src='bom.png'>
+
 | Part   |  Price  |  Link  |
 |---|---|---|
 | Solar Panel  | $25.99  | https://www.amazon.com/dp/B09LYQ5TVJ  |
