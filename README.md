@@ -12,5 +12,5 @@
 | Arducam  | $25.99  |  https://www.amazon.com/dp/B012UXNDOY |
 | Enclosure | $30.95 | https://www.amazon.com/dp/B07FY224LW |
 
-|<b>Total<b> |<b>$130.91</b>||
+| <b>Total<b> | <b>$130.91</b> | |
 
