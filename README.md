@@ -11,6 +11,6 @@
 | ESP32 Cellular Core  | $24.99  | https://www.amazon.com/dp/B098PYCBQW  |
 | Arducam  | $25.99  |  https://www.amazon.com/dp/B012UXNDOY |
 | Enclosure | $30.95 | https://www.amazon.com/dp/B07FY224LW |
-|---|---|---|
-|Total ||$130.91|
+
+|<b>Total<b> |<b>$130.91</b>||
 
