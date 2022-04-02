@@ -4,8 +4,6 @@
 
 ## Build of materials
 
-<img src='bom.png'>
-
 | Part   |  Price  |  Link  |
 |---|---|---|
 | Solar Panel  | $25.99  | https://www.amazon.com/dp/B09LYQ5TVJ  |
@@ -14,4 +12,8 @@
 | ArduCam  | $25.99  |  https://www.amazon.com/dp/B012UXNDOY |
 | Enclosure | $30.95 | https://www.amazon.com/dp/B07FY224LW |
 | <b>Total<b> | <b>$130.91</b> | |
+  
+  
+  <img src='bom.png'>
+
 
